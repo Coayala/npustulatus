@@ -9,7 +9,6 @@
 
 conda init bash
 source ~/.bashrc
-
 conda activate busco
 
 busco -m transcriptome -i Nicropus_transcriptome95.fasta -o Nicropus_transcriptome95_busco -l arthropoda_odb10
