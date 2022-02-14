@@ -1,6 +1,8 @@
 # Effect of food source availability in the salivary gland transcriptome of the unique burying beetle *Nicrophorus pustulatus* (Coleoptera: Silphidae)
 
-The objective of this repository is to provide supplemental information about the software packages, and their parameters, that were used during the RNAseq analysis of the *Nicrophorus pustulatus* salivary gland transcriptomes.
+The objective of this repository is to provide supplemental information about the software packages, and their parameters, that were used during the RNAseq analysis of the *Nicrophorus pustulatus* salivary gland transcriptomes for the paper: 
+
+#### Effect of food source availability in the salivary gland transcriptome of the unique burying beetle Nicrophorus pustulatus (Coleoptera: Silphidae) (https://doi.org/10.1371/journal.pone.0255660)
 
 Read quality control, transcriptome assembly, transcriptome annotation and read pseudo-mapping and abundance determination were done using the resources of the Oklahoma State University High Performance Computing Center. Differential expression analysis and gene set enrichment analysis were done in a local machine running R (R Core Team, 2020).
 All the scripts can be found in the `scripts/` directory of this repository. A brief explanation of the steps of the analysis is detailed below
